@@ -1,0 +1,9 @@
+Wat!? website v2
+
+- Uses the real Wat!? logo supplied by Xavier.
+- Removes the fake WAT!? icon from the header.
+- Removes the fake logo/blob illustration from the hero.
+- Home page now gives the real logo visual priority.
+- Privacy and Support use a cleaner single-column hero.
+- Shared visual style remains aligned with the app colours.
+- Replace YOUR_SUPPORT_EMAIL before publishing the support page.
