@@ -1,9 +1,15 @@
-Wat!? website v2
+Wat!? website — Mobile v3
 
-- Uses the real Wat!? logo supplied by Xavier.
-- Removes the fake WAT!? icon from the header.
-- Removes the fake logo/blob illustration from the hero.
-- Home page now gives the real logo visual priority.
-- Privacy and Support use a cleaner single-column hero.
-- Shared visual style remains aligned with the app colours.
-- Replace YOUR_SUPPORT_EMAIL before publishing the support page.
+Mobile improvements:
+- Smaller, cleaner sticky header on iPhone.
+- Reduced hero title size so it no longer dominates/crops on mobile.
+- Support cards are now compact horizontal cards on phones instead of huge vertical blocks.
+- Improved mobile typography and spacing.
+- Privacy table of contents becomes a horizontal scrollable chip bar.
+- FAQ cards are tighter and easier to scan.
+- Better iPhone safe-area handling with viewport-fit=cover.
+- Footer stacks cleanly on small screens.
+- Keeps the real Wat!? logo and the same desktop design language.
+
+Before publishing:
+- Replace YOUR_SUPPORT_EMAIL in support/index.html with your support email.
